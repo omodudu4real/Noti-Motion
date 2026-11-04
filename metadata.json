@@ -1,0 +1,7 @@
+{
+  "uuid": "slide-notify@omodudu",
+  "name": "Slide Notify",
+  "description": "Configurable slide-in animation for notification banners",
+  "shell-version": ["50"],
+  "settings-schema": "org.gnome.shell.extensions.slide-notify"
+}

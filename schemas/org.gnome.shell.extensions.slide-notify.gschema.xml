@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.slide-notify" path="/org/gnome/shell/extensions/slide-notify/">
+    <key name="direction" type="s">
+      <default>'right'</default>
+    </key>
+    <key name="speed" type="d">
+      <range min="0.5" max="8.0"/>
+      <default>3.0</default>
+    </key>
+    <key name="distance" type="i">
+      <range min="50" max="1000"/>
+      <default>300</default>
+    </key>
+    <key name="bounce" type="b">
+      <default>false</default>
+    </key>
+    <key name="bounce-amount" type="i">
+      <range min="0" max="150"/>
+      <default>30</default>
+    </key>
+  </schema>
+</schemalist>
