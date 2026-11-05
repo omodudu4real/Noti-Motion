@@ -3,5 +3,6 @@
   "name": "Slide Notify",
   "description": "Configurable slide-in animation for notification banners",
   "shell-version": ["50"],
+  "url": "https://github.com/omodudu4real/Noti-Motion",
   "settings-schema": "org.gnome.shell.extensions.slide-notify"
 }
